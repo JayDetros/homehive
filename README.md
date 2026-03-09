@@ -1,7 +1,9 @@
-<h1>HomeHive: A Unified Subdivision Management System</h1>
-<p>
-  A web system developed with <b>Laravel</b>. This system is accomplished as a capstone project in <b>Angeles University Foundation</b> under the <b>College of Computer Studies</b>, serving as a requirement for the Degree of <b>Bachelor of Science in Information Technology.</b>
-</p>
+# HomeHive: A Unified Subdivision Management System
+
+HomeHive is a web-based subdivision management platform built using **Laravel**.  
+The system was developed as a **capstone project at Angeles University Foundation**
+under the **College of Computer Studies** as a requirement for the degree
+**Bachelor of Science in Information Technology**.
 
 ## My Role in the Project
 
