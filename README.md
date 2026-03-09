@@ -17,8 +17,8 @@ I served as a **Backend Developer**, responsible for:
 - Implementing authentication and core system features
 - Integrating system modules such as payments, reservations, and account management
 
-Original repository:
-https://github.com/andreiagbisit/homehive 
+Original repository:  
+[HomeHive Original Repository](https://github.com/andreiagbisit/homehive)
 
 <h3>Developers</h3>
 <ul>
