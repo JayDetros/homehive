@@ -3,6 +3,21 @@
   A web system developed with <b>Laravel</b>. This system is accomplished as a capstone project in <b>Angeles University Foundation</b> under the <b>College of Computer Studies</b>, serving as a requirement for the Degree of <b>Bachelor of Science in Information Technology.</b>
 </p>
 
+## My Role in the Project
+
+This repository is a fork of our undergraduate capstone project developed at
+Angeles University Foundation.
+
+I served as a **Backend Developer**, responsible for:
+
+- Developing backend logic using Laravel
+- Designing and implementing the MySQL database schema
+- Implementing authentication and core system features
+- Integrating system modules such as payments, reservations, and account management
+
+Original repository:
+https://github.com/andreiagbisit/homehive 
+
 <h3>Developers</h3>
 <ul>
   <li>
