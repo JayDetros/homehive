@@ -1,3 +1,8 @@
+![Laravel](https://img.shields.io/badge/Laravel-11-red)
+![PHP](https://img.shields.io/badge/PHP-Backend-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple)
+
 # HomeHive: A Unified Subdivision Management System
 
 HomeHive is a web-based subdivision management platform built using **Laravel**.  
